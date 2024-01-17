@@ -1,8 +1,5 @@
 # linux-desktop
 
-This repository contains [joshrosso](https://twitter.com/joshrosso)'s
-configuration for his daily driver.
-
 ## Commands
 
 To update this repo's contents based on the local system, run:
